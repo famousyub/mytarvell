@@ -332,14 +332,14 @@ include('includes/config.php');
       <div class="col-sm-12 col-md-4">
         <h4>Address:</h4>
         <address>
-          Code4berry Company<br>
+           Company<br>
           12th, street<br>
-          Luthuli Avenue, California
+          
           <br>
         </address>
         <h4>Phone:</h4>
         <address>
-          17745-41189-2<br>
+          29966019<br>
         </address>
       </div>
     </div>
